@@ -1,0 +1,110 @@
+[
+    {
+        "date": "2024-11-18 19:08:44",
+        "rotor_order(gauche a droite)": [
+            "Rotor I",
+            "Rotor II",
+            "Rotor III"
+        ],
+        "initial_positions": [
+            "A",
+            "A",
+            "A"
+        ],
+        "ring_settings": [
+            0,
+            0,
+            0
+        ],
+        "plugboard": "AB, CD, EF",
+        "reflector": "YRUHQSLDPXNGOKMIEBFZCWVJAT",
+        "final_positions": [
+            "A",
+            "B",
+            "A"
+        ],
+        "message": "DARSHAN MISTRY ",
+        "encrypted_message": "TLYGXNC EOCKLS "
+    },
+    {
+        "date": "2024-11-18 19:08:53",
+        "rotor_order(gauche a droite)": [
+            "Rotor I",
+            "Rotor II",
+            "Rotor III"
+        ],
+        "initial_positions": [
+            "A",
+            "A",
+            "A"
+        ],
+        "ring_settings": [
+            0,
+            0,
+            0
+        ],
+        "plugboard": "AB, CD, EF",
+        "reflector": "YRUHQSLDPXNGOKMIEBFZCWVJAT",
+        "final_positions": [
+            "A",
+            "B",
+            "A"
+        ],
+        "message": "DARSHAN MISTRY ",
+        "encrypted_message": "TLYGXNC EOCKLS "
+    },
+    {
+        "date": "2024-11-18 19:08:56",
+        "rotor_order(gauche a droite)": [
+            "Rotor I",
+            "Rotor II",
+            "Rotor III"
+        ],
+        "initial_positions": [
+            "A",
+            "A",
+            "A"
+        ],
+        "ring_settings": [
+            0,
+            0,
+            0
+        ],
+        "plugboard": "AB, CD, EF",
+        "reflector": "YRUHQSLDPXNGOKMIEBFZCWVJAT",
+        "final_positions": [
+            "Z",
+            "C",
+            "A"
+        ],
+        "message": "DARSHAN MISTRY A L'UNIV C LA VIE",
+        "encrypted_message": "FRGQPFC TMOBGS C Q'PGXE H DE HRN"
+    },
+    {
+        "date": "2024-11-18 23:53:39",
+        "rotor_order(gauche a droite)": [
+            "Rotor I",
+            "Rotor II",
+            "Rotor III"
+        ],
+        "initial_positions": [
+            "A",
+            "A",
+            "A"
+        ],
+        "ring_settings": [
+            0,
+            0,
+            0
+        ],
+        "plugboard": "AB, CD, EF",
+        "reflector": "YRUHQSLDPXNGOKMIEBFZCWVJAT",
+        "final_positions": [
+            "H",
+            "A",
+            "A"
+        ],
+        "message": "DARSHAN",
+        "encrypted_message": "PUEJKWE"
+    }
+]
