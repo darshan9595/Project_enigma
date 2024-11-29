@@ -23,7 +23,7 @@ Pour exécuter ce projet, vous avez besoin de :
 
 1. Clonez ce dépôt sur votre machine locale :
   
-   git clone https://github.com/votre-utilisateur/enigma_machine.git
+   git clone https://github.com/darshan9595/Project_enigma.git
   
 2. Accédez au répertoire du projet :
   
@@ -32,9 +32,9 @@ Pour exécuter ce projet, vous avez besoin de :
 
 ## Utilisation
 
-Pour lancer l'application, exécutez le fichier `./main.py` :
+Pour lancer l'application, exécutez le fichier `main.py`, avec la commande  'python main.py'
 
-python main.py
+
 
 Une interface graphique s'affichera vous permettant de :
 
@@ -51,15 +51,6 @@ Une interface graphique s'affichera vous permettant de :
 - `gui.py` : Contient la logique de l'interface utilisateur pour configurer la machine Enigma.
 - `rotor.py`, `plugboard.py`, `reflector.py`, `enigma_machine.py`, `state.py` : Classes de base pour modéliser le comportement de chaque composant de la machine Enigma.
 - `__init__.py` : Indique que le répertoire est un package Python.
-
-## Exemple d'Utilisation
-
-1. Configurer les Rotors : Choisissez 3 rotors parmi les 5 disponibles et configurez leurs positions initiales (A-Z) ainsi que les paramètres de bague.
-2. Configurer le Plugboard : Ajoutez des connexions de type "AB, CD, EF" pour simuler le fonctionnement du plugboard.
-3. Chiffrer un Message : Entrez un message et cliquez sur "Encrypt Message" pour le chiffrer.
-4. Déchiffrer un Message : Pour déchiffrer, utilisez la même configuration de rotors et de plugboard et cliquez sur "Decrypt Message".
-5. Sauvegarder la Configuration : Une fois le message chiffré, cliquez sur "Save Configuration" pour enregistrer la configuration et le message.
-6. Réinitialiser la Machine : Avant de chiffrer un nouveau message, cliquez sur "Reset Machine" pour restaurer la machine à son état initial.
 
 ## Notes Importantes
 

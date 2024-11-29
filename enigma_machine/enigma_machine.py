@@ -21,7 +21,7 @@ class EnigmaMachine:
                 self.rotors[1].rotate()
 
             # Si le deuxième rotor est à la position de "notch", tourner également le troisième rotor
-            # Notez que cela implique que le deuxième rotor fait double stepping
+            #cela implique que le deuxième rotor fait double stepping lors qu'il est à la position de "notch"
             if len(self.rotors) > 2 and self.rotors[1].at_notch():
                 self.rotors[2].rotate()
 

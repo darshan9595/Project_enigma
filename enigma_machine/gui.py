@@ -11,7 +11,7 @@ from state import EnigmaState
 enigma_state = EnigmaState()
 def run_enigma_machine():
         def initialize_enigma():
-            rotor_order = [rotor_var_1.get(), rotor_var_2.get(), rotor_var_3.get()]
+            rotor_order = [rotor_var_3.get(), rotor_var_2.get(), rotor_var_1.get()]
             rotor_configs = {
                 "Rotor I": Rotor(wiring="EKMFLGDQVZNTOWYHXUSPAIBRCJ", notch="Q", position=entry_positions[0].get().upper(), ring_setting=int(entry_rings[0].get())),
                 "Rotor II": Rotor(wiring="AJDKSIRUXBLHWTMCQGZNPYFVOE", notch="E", position=entry_positions[1].get().upper(), ring_setting=int(entry_rings[1].get())),
