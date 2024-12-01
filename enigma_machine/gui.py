@@ -181,7 +181,7 @@ def run_enigma_machine():
             tk.Label(root, text=label, bg="#2F4F4F", fg="white", font=("Arial", 12, "bold")).grid(row=5, column=col, pady=20)
 
 
-            tk.Label(root, text="Initial Position:", bg="#2F4F4F", fg="white").grid(row=7, column=col, sticky="w")
+            tk.Label(root, text="Initial Position (rotor):", bg="#2F4F4F", fg="white").grid(row=7, column=col, sticky="w")
             entry_position = tk.Entry(root, width=5)
             entry_position.insert(0, "A")
             entry_position.grid(row=7, column=col + 1, padx=10)
