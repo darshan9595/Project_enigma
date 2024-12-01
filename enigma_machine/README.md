@@ -37,7 +37,7 @@ Pour lancer l'application, exécutez le fichier `main.py`, avec la commande  'py
 
 
 Une interface graphique s'affichera vous permettant de :
-![Image Interphase](./interphase.png)
+![Image Interphase](./ImageInterphase.png)
 
 
 1. Configurer la machine Enigma : Sélectionnez l'ordre des rotors, configurez leurs positions initiales et les paramètres de bague.
